@@ -11,8 +11,8 @@ This project demonstrates a 5-stage ring oscillator built using NOT gates in Cad
 - Simulated transient response shows expected oscillation frequency.
 
 ## Screenshots
-![Not Gate Schematic](schematics/not_schematic.jpg)
-![Ring Oscillator Schematic](schematics/oscillator_schematic.png)
+![Not Gate Schematic](schematic/not_schematic.jpg)
+![Ring Oscillator Schematic](schematic/oscillator_schematic.jpg)
 ![Ring Oscillator Symbol](symbol/ring_symbol.jpg)
 ![Ring Oscillator Testbench](testbench/ring_tb.jpg)
 ![Transient Analysis](output/oscillator_output.jpg)
